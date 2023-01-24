@@ -137,7 +137,7 @@ ul {
 
 }
 
-@media(min-width:960px) {
+@media and screen(min-width:960px) {
     .price-plan-table {
         flex-direction: row;
     }
